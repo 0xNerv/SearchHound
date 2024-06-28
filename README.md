@@ -2,11 +2,7 @@
      __/o \_
      \____  \
          /   \
-   __   //\   \
-__/o \-//--\   \_/
-\____  ___  \  |
-     ||   \ |\ |
-    _||   _||_||
+
 
 python3 SearchHound.py <usuario>
 Recuerda instalar el modulo Colorama
